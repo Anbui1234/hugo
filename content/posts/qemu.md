@@ -1,7 +1,7 @@
 +++
 title = 'Qemu'
 date = 2023-10-15T06:07:15Z
-image= '/data/data/com.termux/files/home/blog/static/imageQemu.png'
+image = '/data/data/com.termux/files/home/blog/static/imageQemu.png'
 +++
 
 # Xin chao moi nguoi hom nay minh se huong dan ban cach cai qemu cho termux nha 
